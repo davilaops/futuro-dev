@@ -16,9 +16,9 @@
 
 ## 📷 Preview
 
-<img src="https://via.placeholder.com/800x400?text=Futuro+Dev+Landing+Page+Preview" alt="Preview Futuro Dev">
+<img src="Captura de Tela (40).png" alt="Preview Futuro Dev">
 
-*(substitua pelo link de uma imagem real do seu projeto ou deploy)*
+*(Prévia da página)*
 
 ---
 
@@ -41,9 +41,3 @@ Este projeto foi desenvolvido com o objetivo de:
 - Treinar boas práticas de responsividade e usabilidade.
 
 ---
-
-## 🚀 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/futuro-dev.git

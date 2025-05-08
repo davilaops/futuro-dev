@@ -14,14 +14,6 @@
 
 ---
 
-## 📷 Preview
-
-<img src="Captura de Tela (40).png" alt="Preview Futuro Dev">
-
-*(Prévia da página)*
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5

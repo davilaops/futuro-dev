@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    background: radial-gradient(ellipse at top, #0f0c29, #302b63, #24243e);
+    color: #fff;
+  }
+  
+  header {
+    background: #000;
+    border-bottom: 2px solid #00fff7;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .checkout {
+    max-width: 500px;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #00fff7;
+  }
+  
+  .checkout h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  input, select {
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #222;
+    color: #fff;
+    outline: none;
+    font-size: 1rem;
+  }
+  
+  input::placeholder {
+    color: #ccc;
+  }
+  
+  button {
+    margin-top: 30px;
+  }
+  
+  .btn {
+    background-color: #00fff7;
+    color: #000;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    box-shadow: 0 0 15px #00fff7;
+    transition: 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #00e6d0;
+    box-shadow: 0 0 25px #00fff7;
+  }
+  
+  .destaque {
+    background-color: #ff00ff;
+    box-shadow: 0 0 15px #ff00ff;
+  }
+  
+  .destaque:hover {
+    background-color: #e600e6;
+    box-shadow: 0 0 25px #ff00ff;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 33px;
+    font-size: 0.9rem;
+    color: #aaa;
+    background: #000;
+  }
+  

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout | Futuro Dev</title>
+  <link rel="stylesheet" href="checkout.css">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>🚀 Finalize sua Inscrição</h1>
+  </header>
+
+  <section class="checkout">
+    <h2>Confirme seus dados para iniciar o curso</h2>
+
+    <form action="#" method="POST">
+      <label for="nome">Nome completo</label>
+      <input type="text" id="nome" name="nome" required>
+
+      <label for="email">E-mail</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="curso">Curso desejado</label>
+      <select id="curso" name="curso">
+        <option>HTML + CSS Iniciante</option>
+        <option>Git e GitHub</option>
+        <option>JavaScript</option>
+        <option>Todos os cursos</option>
+      </select>
+
+      <label for="pagamento">Forma de pagamento</label>
+      <select id="pagamento" name="pagamento">
+        <option>Cartão de Crédito</option>
+        <option>Pix</option>
+        <option>Boleto Bancário</option>
+      </select>
+
+      <button type="submit" class="btn destaque">Finalizar Compra</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Futuro Dev • Segurança garantida 🔒</p>
+  </footer>
+</body>
+</html>

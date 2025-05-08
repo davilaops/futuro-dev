@@ -1,1 +1,1 @@
-** Neste projeto criei uma landing page para uma pessoa que quer começar a programar e não sabe por onde começar, visando que ela irá aprender o básico de Html, Css, JavaScript, React, Git e GitHub.**
+** Neste projeto criei uma landing page para uma pessoa que quer começar a programar e não sabe por onde começar, visando que ela irá aprender o básico de Html, Css, JavaScript, React, Git e GitHub.

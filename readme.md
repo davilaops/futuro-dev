@@ -1,35 +1,36 @@
 # 🚀 Futuro Dev - Landing Page + Checkout
 
-**Futuro Dev** é um projeto de **landing page futurista com página de checkout**, desenvolvido para promover e vender cursos de programação. Com um visual inspirado em tecnologia, luzes neon e um layout moderno, o projeto simula a experiência de uma plataforma real de educação online.
+**Futuro Dev** is a **futuristic landing page with a checkout system**, designed to promote and sell programming courses. With a tech-inspired visual style, neon lights, and a modern layout, this project simulates the experience of a real online learning platform.
 
 ---
 
-## 💡 Funcionalidades
+## 💡 Features
 
-- ✅ Landing Page com foco em conversão
-- ✅ Página de checkout estilizada e funcional
-- ✅ Responsividade total (desktop e mobile)
-- ✅ Design futurista (cores neon, fonte digital, sombras glow)
-- ✅ Estrutura clara com CTA, conteúdo, prova social e formulário
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3 (Grid, Flexbox, responsividade)
-- Google Fonts - [Orbitron](https://fonts.google.com/specimen/Orbitron)
-- UI minimalista e clean com foco em performance visual
+- ✅ High-converting landing page
+- ✅ Stylish and functional checkout page
+- ✅ Fully responsive (desktop and mobile)
+- ✅ Futuristic design (neon colors, digital font, glow effects)
+- ✅ Clear structure with CTA, course details, social proof, and form
 
 ---
 
-## 🎯 Objetivo
+## 🛠️ Technologies Used
 
-Este projeto foi desenvolvido com o objetivo de:
-
-- Praticar habilidades em **HTML** e **CSS** com foco em design visual.
-- Criar uma landing page otimizada para **conversão de leads**.
-- Desenvolver um formulário funcional de **checkout/inscrição**.
-- Treinar boas práticas de responsividade e usabilidade.
+- HTML5  
+- CSS3 (Grid, Flexbox, responsiveness)  
+- Google Fonts - [Orbitron](https://fonts.google.com/specimen/Orbitron)  
+- Minimalist and clean UI with a focus on performance and visual impact
 
 ---
+
+## 🎯 Project Goals
+
+This project was created to:
+
+- Practice **HTML** and **CSS** skills with an emphasis on visual design
+- Build a landing page optimized for **lead conversion**
+- Create a functional and stylish **checkout/registration form**
+- Apply best practices in **responsive web design** and **user experience**
+
+---
+

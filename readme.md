@@ -34,3 +34,7 @@ This project was created to:
 
 ---
 
+## 📷 Preview website
+<img src="Captura de Tela (40).png"></img>
+
+

@@ -33,6 +33,8 @@ This project was created to:
 - Apply best practices in **responsive web design** and **user experience**
 
 ---
+## 📷 Preview Website
+![Image](https://github.com/user-attachments/assets/6e53585e-a5f6-4ac3-aa67-1fa949dfee94)
 
 
 
